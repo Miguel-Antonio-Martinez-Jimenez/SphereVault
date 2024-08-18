@@ -5,7 +5,7 @@
         "name": "Backend",
         "type": "node",
         "request": "launch",
-        "program": "${workspaceFolder}/back-end/server.js", // Ruta al archivo de entrada del back-end
+        "program": "${workspaceFolder}/back-end/server.js", // Cambia esto según el archivo de entrada de tu back-end
         "cwd": "${workspaceFolder}/back-end",
         "envFile": "${workspaceFolder}/back-end/.env",
         "restart": true,
@@ -21,13 +21,14 @@
           "start"
         ],
         "cwd": "${workspaceFolder}/front-end",
-        "port": 3000, // Asegúrate de que el puerto coincida con el puerto configurado para el front-end
-        "console": "integratedTerminal"
+        "port": 3000, // Asegúrate de que el puerto sea el correcto para tu front-end
+        "restart": true,
+        "console": "integratedTerminal",
       }
     ],
     "compounds": [
       {
-        "name": "Debug Both",
+        "name": "SphereVault",
         "configurations": ["Backend", "Frontend"]
       }
     ]
