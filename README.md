@@ -91,14 +91,14 @@
 
    
 ## Compilacion y Ejecución
+
 - **Back-end**
-  1.
-  2.
-  1. **Compilar y Ejecutar en Modo Desarrollo**
+- 
+   1. Compilar y Ejecutar en Modo Desarrollo:
       Utiliza nodemon para ejecutar el servidor en modo desarrollo, lo que permitirá reiniciar automáticamente el servidor al realizar cambios en el código:
-      ```bash
-      npm run dev
-2. **Compilar y Ejecutar en Modo Producción**
+         ```bash
+         npm run dev
+   2. **Compilar y Ejecutar en Modo Producción**
       Si prefieres ejecutar el servidor en modo producción, puedes hacerlo con el siguiente comando:
       ```bash
       npm start
