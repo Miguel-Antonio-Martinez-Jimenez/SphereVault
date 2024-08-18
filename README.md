@@ -1,18 +1,8 @@
 # SphereVault
 
-**SphereVault** es una plataforma web para almacenar y gestionar archivos y carpetas. Ofrece inicio de sesión con Google, subida y organización de archivos, y un apartado adicional para ayudar a documentar proyectos en desarrollo.
+**SphereVault** es una plataforma web avanzada que proporciona una solución completa para el almacenamiento y gestión de archivos y carpetas. Diseñada con un enfoque en la seguridad, la eficiencia y la facilidad de uso, SphereVault ofrece a los usuarios una experiencia fluida y confiable en el manejo de sus datos.
 
-## Índice
 
-1. [Descripción del Proyecto](#descripción-del-proyecto)
-2. [Requisitos](#requisitos)
-3. [Configuración del Entorno](#configuración-del-entorno)
-4. [Estructura del Proyecto](#estructura-del-proyecto)
-5. [Avances](#avances)
-6. [Problemas y Soluciones](#problemas-y-soluciones)
-7. [Próximos Pasos](#próximos-pasos)
-8. [Contribuciones](#contribuciones)
-9. [Licencia](#licencia)
 
 ## Descripción del Proyecto
 
@@ -34,7 +24,7 @@
 - **Centro de Soporte**: Sección de asistencia con planes para incluir un chatbot que ayude a resolver dudas y problemas de los usuarios.
 - **Estadísticas y Análisis**: Herramientas para monitorear y analizar el uso de la plataforma y la gestión de archivos.
 
-**SphereVault** está construido utilizando *Node.js* para el ***back-end*** y *React* para el ***front-end***, con *MySQL* como sistema de gestión de bases de datos, garantizando un entorno ágil, escalable y seguro.
+**SphereVault** combina la potencia y la simplicidad para ofrecer una plataforma robusta que se adapta a las necesidades de almacenamiento y gestión de archivos, al tiempo que proporciona herramientas especializadas para el desarrollo y documentación de proyectos. Con su arquitectura basada en *Node.js* y *React*, y utilizando *MySQL* como sistema de gestión de bases de datos, **SphereVault** está diseñado para ser ágil, escalable y seguro, proporcionando una experiencia de usuario excepcional.
 
 ## Requisitos
 
