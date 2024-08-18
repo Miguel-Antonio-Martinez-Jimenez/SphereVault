@@ -55,26 +55,30 @@
 ## Configuración del Entorno
 
 1. **Clona el repositorio:**
+
    Primero, clona el repositorio del proyecto desde GitHub:
    ```bash
    git clone https://github.com/Miguel-Antonio-Martinez-Jimenez/SphereVault.git
    cd SphereVault
    
-2. **Instala las dependencias:**
+3. **Instala las dependencias:**
+
    Para instalar las dependencias necesarias para el backend y el frontend, sigue estos pasos:
    - **Back-end**
+
      Navega a la carpeta del backend (si está separada):
      ```bash
      cd back-end
      npm install
      
    - **Front-end**
+
      Navega a la carpeta del frontend (si está separada):
      ```bash
      cd back-end
      npm install
      
-3. **Configura el Archivo .env del back-end**
+5. **Configura el Archivo .env del back-end**
    ```bash
    DB_HOST=localhost
    DB_USER=root
