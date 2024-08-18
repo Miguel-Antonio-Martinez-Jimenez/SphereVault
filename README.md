@@ -34,7 +34,7 @@
 - **Centro de Soporte**: Sección de asistencia con planes para incluir un chatbot que ayude a resolver dudas y problemas de los usuarios.
 - **Estadísticas y Análisis**: Herramientas para monitorear y analizar el uso de la plataforma y la gestión de archivos.
 
-**SphereVault** está construido utilizando *Node.js* para el backend y React para el frontend, con MySQL como sistema de gestión de bases de datos, garantizando un entorno ágil, escalable y seguro.
+**SphereVault** está construido utilizando *Node.js* para el ***back-end*** y *React* para el ***front-end***, con *MySQL* como sistema de gestión de bases de datos, garantizando un entorno ágil, escalable y seguro.
 
 ## Requisitos
 
