@@ -118,6 +118,14 @@
 
 
 
+## Referencias y Recursos
+
+- [Documentación de Node.js](https://nodejs.org/en/docs/)
+- [Documentación de React](https://reactjs.org/docs/getting-started.html)
+- [Documentación de MySQL](https://dev.mysql.com/doc/)
+
+
+
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [`LICENSE`](https://github.com/Miguel-Antonio-Martinez-Jimenez/SphereVault/blob/main/LICENSE)  para obtener más detalles.
