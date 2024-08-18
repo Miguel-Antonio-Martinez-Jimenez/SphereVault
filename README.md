@@ -92,19 +92,19 @@
 - **Back-end**
    1. **Compilar y Ejecutar en Modo Desarrollo**
       Utiliza nodemon para ejecutar el servidor en modo desarrollo, lo que permitirá reiniciar automáticamente el servidor al realizar cambios en el código:
-           ```bash
-           npm run dev
+      ```bash
+      npm run dev
    2. **Compilar y Ejecutar en Modo Producción**
       Si prefieres ejecutar el servidor en modo producción, puedes hacerlo con el siguiente comando:
-           ```bash
-           npm start
+      ```bash
+      npm start
 
 - **Front-end**
    1. **Compilar y Ejecutar en Modo Desarrollo**
       Navega a la carpeta del frontend y utiliza el siguiente comando para iniciar el servidor de desarrollo:
-           ```bash
-           npm start
-      Esto abrirá la aplicación en tu navegador, generalmente en http://localhost:3000.
+      ```bash
+      npm start
+Esto abrirá la aplicación en tu navegador, generalmente en http://localhost:3000.
 
 
 
