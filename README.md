@@ -93,6 +93,10 @@
 ## Compilacion y Ejecución
 
 - **Back-end**
+  1.
+  2.
+  3.
+
    1. Compilar y Ejecutar en Modo Desarrollo:
       Utiliza nodemon para ejecutar el servidor en modo desarrollo, lo que permitirá reiniciar automáticamente el servidor al realizar cambios en el código:
          ```bash
