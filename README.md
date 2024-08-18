@@ -83,7 +83,7 @@
    JWT_SECRET=tu_palabra_secreta
    PORT=tu_puerto
 >[!IMPORTANT]
-> El puerto
+> Asegúrate de que el puerto configurado en el archivo .env (en este caso, el puerto 5000 para el backend) no esté siendo utilizado por otro servicio en tu máquina. Si el puerto ya está en uso, el servidor backend no podrá iniciarse correctamente. Puedes cambiar el puerto a uno disponible en el archivo .env si es necesario. Además, verifica que el puerto utilizado por el frontend (por defecto, 3000) no esté en conflicto con otras aplicaciones.
 
 5. Configura la Autenticación de Google
    Sigue los pasos de Google Cloud Platform para obtener las credenciales necesarias para la autenticación con Google y configúralas en el backend.
@@ -104,7 +104,7 @@
       Navega a la carpeta del frontend y utiliza el siguiente comando para iniciar el servidor de desarrollo:
       ```bash
       npm start
-  Esto abrirá la aplicación en tu navegador, generalmente en http://localhost:3000.
+Esto abrirá la aplicación en tu navegador, generalmente en http://localhost:3000.
 
 
 
