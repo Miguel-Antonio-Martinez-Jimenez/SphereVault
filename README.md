@@ -35,6 +35,11 @@
    - ***MySQL***: Versión 8 o superior (recomendado).
    - ***npm***: Gestor de paquetes de Node.js para instalar dependencias.
 
+- **Hardware Necesario:**
+   - ***CPU***: 2 nucleos.
+   - ***RAM***: 4 GB.
+   - ***Espacio en disco***: 3 GB libre para aplicacion y datos.
+
 - **Dependencias del Proyecto:**
    - ***Express***: Framework web para *Node.js*, utilizado para gestionar el backend.
    - ***MySQL***: Paquete para la conexión y gestión de la base de datos *MySQL* desde Node.js.
