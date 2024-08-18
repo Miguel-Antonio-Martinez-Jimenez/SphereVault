@@ -75,6 +75,11 @@
      ```bash
      cd back-end
      npm install
+     npm install express
+     npm install mysql2
+     npm install dotenv
+     npm install jsonwebtoken
+     npm install google-auth-library
      
    - **Front-end**
 
