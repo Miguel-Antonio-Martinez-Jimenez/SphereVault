@@ -22,3 +22,24 @@
 - **Documentación de Proyectos**: Ofrece una sección adicional para ayudar a documentar proyectos en desarrollo.
 
 La plataforma está construida utilizando Node.js para el backend y React para el frontend, con MySQL como sistema de gestión de bases de datos.
+
+## Requisitos
+
+- **Node.js** (v14 o superior recomendado)
+- **MySQL** (v8 o superior recomendado)
+- **npm** (para la gestión de dependencias)
+
+### Dependencias
+
+- **Express**: Framework para Node.js.
+- **MySQL**: Paquete para la conexión con MySQL.
+- **dotenv**: Para manejar variables de entorno.
+- **jsonwebtoken**: Para la gestión de tokens JWT.
+- **google-auth-library**: Para autenticación con Google.
+
+## Configuración del Entorno
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/Miguel-Antonio-Martinez-Jimenez/SphereVault.git
+   cd SphereVault
