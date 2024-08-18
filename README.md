@@ -55,27 +55,58 @@
 ## Configuración del Entorno
 
 1. Clona el repositorio:
+   Primero, clona el repositorio del proyecto desde GitHub:
    ```bash
    git clone https://github.com/Miguel-Antonio-Martinez-Jimenez/SphereVault.git
    cd SphereVault
+   
 2. Instala las dependencias:
-   ```bash
-   npm install
-3. Configura el archivo back-end/.env en la raíz del proyecto con las siguientes variables:
+   Para instalar las dependencias necesarias para el backend y el frontend, sigue estos pasos:
+   - Back-end
+     Navega a la carpeta del backend (si está separada):
+     ```bash
+     cd back-end
+     npm install
+     
+   - Front-end
+     Navega a la carpeta del frontend (si está separada):
+     ```bash
+     cd back-end
+     npm install
+     
+3. Configura el Archivo .env del back-end
    ```bash
    DB_HOST=localhost
    DB_USER=root
-   DB_PASSWORD=Tu_Contraseña
-   DB_NAME=spherevault
-   JWT_SECRET=spherevaultsecret
-   PORT=5000
-4. Ejecuta el servidoro:
-   - modo desarrollo
-     ```bash
-     npm run dev
-   - modo producción:
-     ```bash
-     npm start
+   DB_PASSWORD=tu_contraseña
+   DB_NAME=nombre_base_de_datos
+   JWT_SECRET=tu_palabra_secreta
+   PORT=tu_puerto
+>[!IMPORTANT]
+> El puerto
+
+5. Configura la Autenticación de Google
+   Sigue los pasos de Google Cloud Platform para obtener las credenciales necesarias para la autenticación con Google y configúralas en el backend.
+   
+## Compilacion y Ejecución
+- **Back-end**
+   1. **Compilar y Ejecutar en Modo Desarrollo**
+      Utiliza nodemon para ejecutar el servidor en modo desarrollo, lo que permitirá reiniciar automáticamente el servidor al realizar cambios en el código:
+           ```bash
+           npm run dev
+   2. **Compilar y Ejecutar en Modo Producción**
+      Si prefieres ejecutar el servidor en modo producción, puedes hacerlo con el siguiente comando:
+           ```bash
+           npm start
+
+- **Front-end**
+   1. **Compilar y Ejecutar en Modo Desarrollo**
+      Navega a la carpeta del frontend y utiliza el siguiente comando para iniciar el servidor de desarrollo:
+           ```bash
+           npm start
+      Esto abrirá la aplicación en tu navegador, generalmente en http://localhost:3000.
+
+
 
 ## Estructura del Proyecto
 
