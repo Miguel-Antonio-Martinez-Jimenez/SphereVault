@@ -63,7 +63,7 @@ La plataforma está construida utilizando Node.js para el backend y React para e
      npm start
 
 ## Estructura del Proyecto
-**	SphereVault/
+**SphereVault/
 	├── back-end
 	│   ├── config
 	│   │   └── db.config.js
