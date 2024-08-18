@@ -47,8 +47,11 @@
    - ***Postman*** *(opcional)*: Para probar las API del backend.
    - ***Git***: Para el control de versiones y clonación del repositorio.
 
-> [!IMPORTANT]
+> [!NOTE IMPORTANT]
 > Estos son los requisitos principales que se necesitan para desarrollar y ejecutar SphereVault.
+
+>[!IMPORTANT]
+> Es imprescindible tener todos estos requisitos instalados y configurados correctamente en tu entorno de desarrollo. Sin ellos, el código de SphereVault no funcionará adecuadamente, y es posible que encuentres errores durante la instalación o ejecución de la aplicación. Asegúrate de cumplir con cada uno de ellos antes de continuar.
 
 
 
