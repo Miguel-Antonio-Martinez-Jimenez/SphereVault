@@ -16,24 +16,25 @@
 
 ## Descripción del Proyecto
 
-**SphereVault** es una plataforma web diseñada para ofrecer:
-- **Inicio de sesión con Google**: Permite a los usuarios autenticarse utilizando sus cuentas de Google.
-- **Subida y Organización de Archivos**: Facilita la carga, descarga y organización de archivos y carpetas.
-- **Organización de Archivos y Carpetas**: Facilita la creación, edición y eliminación de carpetas para organizar archivos.
-- **Gestión de Permisos y Compartición**: Posibilidad de compartir archivos y carpetas con otros usuarios, controlando los permisos de acceso.
-- **Funcionalidades Avanzadas de Búsqueda**: Herramientas para buscar archivos y carpetas de manera eficiente.
-- **Notificaciones y Alertas**: Sistema para notificar a los usuarios sobre cambios y actividades relevantes.
-- **Vista Previa de Archivos**: Posibilidad de ver una vista previa de los archivos antes de descargarlos.
-- **Seguridad y Privacidad**: Protección de datos mediante cifrado y gestión de accesos.
+**SphereVault** es una plataforma web diseñada para ofrecer una solución integral en la gestión y almacenamiento de archivos, con un enfoque en la seguridad y la facilidad de uso.
 
-Funcion Especial:
-- **Documentación de Proyectos**: Ofrece una sección dedicada para documentar proyectos en desarrollo.
+**Funcionalidades Principales:**
+- **Inicio de sesión con Google**: Autenticación segura y rápida mediante cuentas de Google.
+- **Organización de Archivos y Carpetas**:  Facilita la creación, edición, descarga y eliminación de carpetas para una mejor estructuración de los archivos.
+- **Gestión de Permisos y Compartición**: Opciones avanzadas para compartir archivos y carpetas con otros usuarios, controlando los permisos de acceso.
+- **Funcionalidades Avanzadas de Búsqueda**: Herramientas potentes para localizar archivos y carpetas de manera rápida y precisa.
+- **Notificaciones y Alertas**: Sistema de notificaciones para mantener a los usuarios informados sobre cambios y actividades relevantes.
+- **Vista Previa de Archivos**: Permite visualizar el contenido de los archivos antes de descargarlos.
+- **Seguridad y Privacidad**: Protección robusta de datos mediante cifrado y gestión de accesos.
 
-Futuras actualizaciones:
-- **Centro de Soporte**: Sección de ayuda con la posibilidad de incluir un chatbot en el futuro.
-- **Estadísticas y Análisis**: Herramientas para analizar el uso de la plataforma y la gestión de archivos.
+**Función Especial:**
+- **Documentación de Proyectos de Software**: Ofrece una sección dedicada para la documentación de proyectos en desarrollo, facilitando el seguimiento y la organización.
 
-La plataforma está construida utilizando Node.js para el backend y React para el frontend, con MySQL como sistema de gestión de bases de datos.
+**Futuras Actualizaciones:**
+- **Centro de Soporte**: Sección de asistencia con planes para incluir un chatbot que ayude a resolver dudas y problemas de los usuarios.
+- **Estadísticas y Análisis**: Herramientas para monitorear y analizar el uso de la plataforma y la gestión de archivos.
+
+**SphereVault** está construido utilizando *Node.js* para el backend y React para el frontend, con MySQL como sistema de gestión de bases de datos, garantizando un entorno ágil, escalable y seguro.
 
 ## Requisitos
 
