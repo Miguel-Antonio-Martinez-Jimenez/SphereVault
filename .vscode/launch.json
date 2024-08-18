@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Backend",
+        "type": "node",
+        "request": "launch",
+        "program": "${workspaceFolder}/back-end/server.js", // Ruta al archivo de entrada del back-end
+        "cwd": "${workspaceFolder}/back-end",
+        "envFile": "${workspaceFolder}/back-end/.env",
+        "restart": true,
+        "console": "integratedTerminal",
+        "internalConsoleOptions": "neverOpen"
+      },
+      {
+        "name": "Frontend",
+        "type": "node",
+        "request": "launch",
+        "runtimeExecutable": "npm",
+        "runtimeArgs": [
+          "start"
+        ],
+        "cwd": "${workspaceFolder}/front-end",
+        "port": 3000, // Asegúrate de que el puerto coincida con el puerto configurado para el front-end
+        "console": "integratedTerminal"
+      }
+    ],
+    "compounds": [
+      {
+        "name": "Debug Both",
+        "configurations": ["Backend", "Frontend"]
+      }
+    ]
+  }
+  
