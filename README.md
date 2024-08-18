@@ -19,7 +19,19 @@
 **SphereVault** es una plataforma web diseñada para ofrecer:
 - **Inicio de sesión con Google**: Permite a los usuarios autenticarse utilizando sus cuentas de Google.
 - **Subida y Organización de Archivos**: Facilita la carga, descarga y organización de archivos y carpetas.
-- **Documentación de Proyectos**: Ofrece una sección adicional para ayudar a documentar proyectos en desarrollo.
+- **Organización de Archivos y Carpetas**: Facilita la creación, edición y eliminación de carpetas para organizar archivos.
+- **Gestión de Permisos y Compartición**: Posibilidad de compartir archivos y carpetas con otros usuarios, controlando los permisos de acceso.
+- **Funcionalidades Avanzadas de Búsqueda**: Herramientas para buscar archivos y carpetas de manera eficiente.
+- **Notificaciones y Alertas**: Sistema para notificar a los usuarios sobre cambios y actividades relevantes.
+- **Vista Previa de Archivos**: Posibilidad de ver una vista previa de los archivos antes de descargarlos.
+- **Seguridad y Privacidad**: Protección de datos mediante cifrado y gestión de accesos.
+
+Funcion Especial:
+- **Documentación de Proyectos**: Ofrece una sección dedicada para documentar proyectos en desarrollo.
+
+Futuras actualizaciones:
+- **Centro de Soporte**: Sección de ayuda con la posibilidad de incluir un chatbot en el futuro.
+- **Estadísticas y Análisis**: Herramientas para analizar el uso de la plataforma y la gestión de archivos.
 
 La plataforma está construida utilizando Node.js para el backend y React para el frontend, con MySQL como sistema de gestión de bases de datos.
 
