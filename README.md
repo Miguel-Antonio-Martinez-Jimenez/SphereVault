@@ -78,7 +78,7 @@
      cd back-end
      npm install
      
-5. **Configura el Archivo .env del back-end**
+4. **Configura el Archivo .env del back-end**
    ```bash
    DB_HOST=localhost
    DB_USER=root
