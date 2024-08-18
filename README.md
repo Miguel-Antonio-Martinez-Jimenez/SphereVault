@@ -26,19 +26,28 @@
 
 **SphereVault** combina la potencia y la simplicidad para ofrecer una plataforma robusta que se adapta a las necesidades de almacenamiento y gestión de archivos, al tiempo que proporciona herramientas especializadas para el desarrollo y documentación de proyectos. Con su arquitectura basada en *Node.js* y *React*, y utilizando *MySQL* como sistema de gestión de bases de datos, **SphereVault** está diseñado para ser ágil, escalable y seguro, proporcionando una experiencia de usuario excepcional.
 
+
+
 ## Requisitos
 
-- **Node.js** (v14 o superior recomendado)
-- **MySQL** (v8 o superior recomendado)
-- **npm** (para la gestión de dependencias)
+- **Software Necesario:**
+   - ***Node.js***: Versión 14 o superior (recomendado).
+   - ***MySQL***: Versión 8 o superior (recomendado).
+   - ***npm***: Gestor de paquetes de Node.js para instalar dependencias.
 
-### Dependencias
+- **Dependencias del Proyecto:**
+   - ***Express***: Framework web para *Node.js*, utilizado para gestionar el backend.
+   - ***MySQL***: Paquete para la conexión y gestión de la base de datos *MySQL* desde Node.js.
+   - ***dotenv***: Para manejar variables de entorno, como configuraciones de la base de datos y claves secretas.
+   - ***jsonwebtoken***: Para la gestión y verificación de tokens JWT, necesarios para la autenticación de usuarios.
+   - ***google-auth-library***: Librería utilizada para implementar la autenticación con cuentas de Google.
 
-- **Express**: Framework para Node.js.
-- **MySQL**: Paquete para la conexión con MySQL.
-- **dotenv**: Para manejar variables de entorno.
-- **jsonwebtoken**: Para la gestión de tokens JWT.
-- **google-auth-library**: Para autenticación con Google.
+- **Herramientas de Desarrollo:**
+   - ***Editor de Código***: Visual Studio Code o cualquier otro editor que prefieras.
+   - ***Postman*** *(opcional)*: Para probar las API del backend.
+   - ***Git***: Para el control de versiones y clonación del repositorio.
+
+Estos son los requisitos principales que se necesitan para desarrollar y ejecutar SphereVault.
 
 ## Configuración del Entorno
 
