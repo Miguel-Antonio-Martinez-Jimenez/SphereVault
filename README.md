@@ -54,27 +54,27 @@
 
 ## Configuración del Entorno
 
-1. Clona el repositorio:
+1. **Clona el repositorio:**
    Primero, clona el repositorio del proyecto desde GitHub:
    ```bash
    git clone https://github.com/Miguel-Antonio-Martinez-Jimenez/SphereVault.git
    cd SphereVault
    
-2. Instala las dependencias:
+2. **Instala las dependencias:**
    Para instalar las dependencias necesarias para el backend y el frontend, sigue estos pasos:
-   - Back-end
+   - **Back-end**
      Navega a la carpeta del backend (si está separada):
      ```bash
      cd back-end
      npm install
      
-   - Front-end
+   - **Front-end**
      Navega a la carpeta del frontend (si está separada):
      ```bash
      cd back-end
      npm install
      
-3. Configura el Archivo .env del back-end
+3. **Configura el Archivo .env del back-end**
    ```bash
    DB_HOST=localhost
    DB_USER=root
@@ -85,14 +85,14 @@
 >[!IMPORTANT]
 > Asegúrate de que el puerto configurado en el archivo .env (en este caso, el puerto 5000 para el backend) no esté siendo utilizado por otro servicio en tu máquina. Si el puerto ya está en uso, el servidor backend no podrá iniciarse correctamente. Puedes cambiar el puerto a uno disponible en el archivo .env si es necesario. Además, verifica que el puerto utilizado por el frontend (por defecto, 3000) no esté en conflicto con otras aplicaciones.
 
-5. Configura la Autenticación de Google
+5. **Configura la Autenticación de Google**
    Sigue los pasos de Google Cloud Platform para obtener las credenciales necesarias para la autenticación con Google y configúralas en el backend.
 
 
    
 ## Compilacion y Ejecución
 
-- Back-end
+- **Back-end**
    - **Compilar y Ejecutar en Modo Desarrollo:**
      Utiliza nodemon para ejecutar el servidor en modo desarrollo, lo que permitirá reiniciar automáticamente el servidor al realizar cambios en el código:
      ```bash
@@ -102,7 +102,7 @@
      ```bash
      npm start
 
-- Front-end
+- **Front-end**
    - **Compilar y Ejecutar en Modo Desarrollo**
      Navega a la carpeta del frontend y utiliza el siguiente comando para iniciar el servidor de desarrollo:
      ```bash
