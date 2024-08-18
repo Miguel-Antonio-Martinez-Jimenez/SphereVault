@@ -102,12 +102,12 @@
      ```bash
      npm start
 
-- **Front-end**
-1. **Compilar y Ejecutar en Modo Desarrollo**
-      Navega a la carpeta del frontend y utiliza el siguiente comando para iniciar el servidor de desarrollo:
-      ```bash
-      npm start
-Esto abrirá la aplicación en tu navegador, generalmente en http://localhost:3000.
+2. Front-end
+   - **Compilar y Ejecutar en Modo Desarrollo**
+     Navega a la carpeta del frontend y utiliza el siguiente comando para iniciar el servidor de desarrollo:
+     ```bash
+     npm start
+   Esto abrirá la aplicación en tu navegador, generalmente en http://localhost:3000.
 
 
 
