@@ -118,24 +118,6 @@
 
 
 
-## Estructura del Proyecto
-
-## Avances
-- Se ha configurado la conexión y creación de la base de datos spherevault y la tabla usuarios.
-- Implementado el inicio de sesión con Google y la autenticación de usuarios.
-- Creación básica del perfil de usuario.
-
-## Problemas y Soluciones
-- Error de Conexión a la Base de Datos:
-   - Problema: Error de acceso denegado.
-   - Solución: Verificar las credenciales en el archivo .env y ajustar la configuración de la base de datos.
-   - 
-## Próximos Pasos
-- Completar la funcionalidad de gestión de archivos.
-- Implementar y configurar las rutas de la API para el perfil de usuario.
-
-## Contribuciones
-Las contribuciones son bienvenidas. Si deseas colaborar en el proyecto, por favor realiza un fork del repositorio y envía un pull request con tus mejoras.
-
 ## Licencia
-Este `README.md` proporciona una descripción completa del proyecto, incluyendo la configuración, estructura, avances, problemas y próximos pasos. ¡Espero que te sea útil!
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [`LICENSE`](https://github.com/Miguel-Antonio-Martinez-Jimenez/SphereVault/blob/main/LICENSE)  para obtener más detalles.
