@@ -87,10 +87,12 @@
 
 5. Configura la Autenticación de Google
    Sigue los pasos de Google Cloud Platform para obtener las credenciales necesarias para la autenticación con Google y configúralas en el backend.
+
+
    
 ## Compilacion y Ejecución
 - **Back-end**
-1. **Compilar y Ejecutar en Modo Desarrollo**
+   1. **Compilar y Ejecutar en Modo Desarrollo**
       Utiliza nodemon para ejecutar el servidor en modo desarrollo, lo que permitirá reiniciar automáticamente el servidor al realizar cambios en el código:
       ```bash
       npm run dev
