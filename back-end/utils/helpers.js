@@ -1,8 +1,6 @@
-// Funciones auxiliares
-const formatDate = (date) => {
-    // Implementar función de formato de fecha
+const formatDate = (date) => 
+{
     return date;
-  };
-  
-  module.exports = { formatDate };
+};
+module.exports = { formatDate };
   
