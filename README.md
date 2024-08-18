@@ -63,41 +63,6 @@ La plataforma está construida utilizando Node.js para el backend y React para e
      npm start
 
 ## Estructura del Proyecto
-**SphereVault/
-	├── back-end
-	│   ├── config
-	│   │   └── db.config.js
- 	│   ├── controllers
-  	│   │   └── user.controller.js
-  	│   ├── middlewares
-   │   │   └── auth.middlewares.js
-  	│   ├── models
-   │   │   └── user.model.js
-  	│   ├── node_modules
-   │   │   └── auth.middlewares.js
-  	│   ├── routes
-   │   │   └── user.routes.js
-  	│   ├── services
-   │   │   └── auth.service.js
-  	│   ├── utils
-   │   │   └── helpers.js
-	│   ├── .env
-	│   ├── app.js
-	│   ├── package-lock.json
-	│   ├── package.json
-	│   └── server.js
-	├── front-end/
-	│   ├── node_modules
-	│   │   ├── LICENSE.md
-	│   │   └── modernizr-custom.js
-	│   ├── public
-	│   ├── src
- 	│   ├── .gitignore
-	│   ├── package-lock.json
-	│   ├── package.json
-	│   └── ReADME.md
-	├── LICENSE
-	└── README.md**
 
 ## Avances
 - Se ha configurado la conexión y creación de la base de datos spherevault y la tabla usuarios.
