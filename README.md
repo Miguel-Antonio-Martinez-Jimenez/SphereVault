@@ -113,6 +113,7 @@ Para instalar las dependencias necesarias para el backend y el frontend, sigue e
 
 ## Accesos o Credenciales
 Usuario de prueba: prueba@ejemplo.com
+
 Contraseña de prueba: contraseña123
 
 ## Guía de Uso del Proyecto
